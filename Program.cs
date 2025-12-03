@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using PaginaIA1.Data;
+using PaginaIA1.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
